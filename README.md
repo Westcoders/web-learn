@@ -1,7 +1,4 @@
 # web-learn
-用来学习如何制作网页的项目
-第一遍学习
-我的网页代码
 <!DOCTYPE html>
 <html lang="en">
 <head>
