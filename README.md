@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>程晓杰的网页</title>
+    <title>程晓杰的网页2.0</title>
     <link href="./css/网页学习项目格式文件.css" rel="stylesheet" />
     <script>
         var scoll = 0;
